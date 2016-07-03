@@ -50,6 +50,7 @@ def send_email(message):
 old_title, old_company = get_jobs_from_list()
 
 # Tester
+# Remove the following comments to check if it works
 #old_title = old_title[1:len(old_title)-1]
 #old_company = old_company[1:len(old_title)-1]
 
