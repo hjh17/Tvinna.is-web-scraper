@@ -1,7 +1,7 @@
 # Tvinna.is notifier
 
 
-A Python web scraping tool that checks for new job positions at [Tvinna.is](www.tvinna.is) every five minutes and notifies you via email.
+A Python web scraping tool that checks for new job positions at [Tvinna.is](http://www.tvinna.is) every five minutes and notifies you via email.
 
 ## requirements
 
