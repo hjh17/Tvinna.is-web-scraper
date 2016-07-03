@@ -12,4 +12,5 @@ A Python web scraping tool that checks for new job positions at [Tvinna.is](www.
 ## usage
 1. Install dependencies.
 2. Change the values on `gmail_from_address`, `gmail_password` and `receiving_email` in `scraper.py`
-3. Run `python scraper.py` and keep it running.
+3. Turn on [Less secure apps](https://www.google.com/settings/security/lesssecureapps) from google settings.
+4. Run `python scraper.py` and keep it running.
